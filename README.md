@@ -1,6 +1,8 @@
 # i3wm-shutdown-options
 ## This is feature is for all the i3 users who have been struggling to set up customised shortcuts for shutdown,login and reboot options
-The snippet of code can be found down.<br>
+The snippet of code can be found down.
+i3 is a tiling window manager designed for X11, inspired by wmii and written in C. It supports tiling, stacking, and tabbing layouts, which it handles dynamically.
+<br>
 
 #bindsym $mod+x mode "exit: [l]ogout, [r]eboot, [s]hutdown"<br>
 mode "exit: [l]ogout, [r]eboot, [s]hutdown" {<br>
